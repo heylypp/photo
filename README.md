@@ -1,2 +1,2 @@
 # photo
-for story the picture for markdown
+For story the picture for markdown
